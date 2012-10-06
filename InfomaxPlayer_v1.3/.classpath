@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/scoindia/infomax/application/player/config/EncryptedProperties.java|com/scoindia/infomax/application/player/config/XmppManager.java|com/scoindia/infomax/application/player/config/XMPPClient.java|com/scoindia/infomax/application/player/config/ClientHandler.java|com/scoindia/infomax/application/player/config/ClientMain.java|com/scoindia/infomax/application/player/GridDocks.java|com/scoindia/infomax/application/player/playList/PlayListReader.java|com/scoindia/infomax/application/player/Testing.java|com/scoindia/infomax/application/player/config/Debug.java|com/scoindia/infomax/application/player/config/MD5Checksum.java|com/scoindia/infomax/application/player/config/PingIQ.java|com/scoindia/infomax/application/player/config/PolicyLoader.java|com/scoindia/infomax/application/player/config/PrefHandler.java|com/scoindia/infomax/application/player/config/PrefInterface.java|com/scoindia/infomax/application/player/config/ServerInterface.java|com/scoindia/infomax/application/player/config/StringUtils.java|com/scoindia/infomax/application/player/config/Connection.java|com/scoindia/infomax/application/player/CustomTimerForPanel.java|com/scoindia/infomax/application/player/scheduler/CronTriggerExample.java|com/scoindia/infomax/application/player/scheduler/SimpleJob.java|com/scoindia/infomax/application/player/config/ConnectToServer.java" kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/DJNativeSwing-SWT.jar"/>
+	<classpathentry kind="lib" path="lib/DJNativeSwing.jar"/>
+	<classpathentry kind="lib" path="lib/jna.jar"/>
+	<classpathentry kind="lib" path="lib/platform.jar"/>
+	<classpathentry kind="lib" path="lib/quartz-all-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/vlcj-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/swt-3.8M3-win32-win32-x86.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

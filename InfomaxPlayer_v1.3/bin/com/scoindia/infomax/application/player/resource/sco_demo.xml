@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<play-list>
+	<play-item type = "image" name ="BlueMoon" src = "/Videos/ArimaArima.mp4">
+		<play-at>14:55:55</play-at>
+		<play-as>full-screen</play-as>
+		<play-for>00:02:00</play-for>
+	</play-item>
+	<play-item type = "doc" name ="nature" src="/Infomax/Player/Pics/Lady.bmp">
+		<play-at>14:55:55</play-at>
+		<play-as>with sidePane</play-as>
+		<play-for>00:02:00</play-for>
+	</play-item>
+	<play-item type = "image" name ="nature" src="/Infomax/Player/Pics/Apple.jpg">
+		<play-at>11:50:55</play-at>
+		<play-as>with sidePane-ticker</play-as>            
+		<play-for>00:02:00</play-for>
+	</play-item>
+</play-list>
